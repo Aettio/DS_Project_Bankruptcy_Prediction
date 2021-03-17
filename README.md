@@ -22,7 +22,7 @@ p.s. Во всём коде дополнительно были сделаны �
 
 ## Введение
 
-![alt text](https://github.com/Aettio/DS_Project_New/blob/main/Images/Vaccine.jpg)
+![alt text](https://github.com/Aettio/DS_Project_Exam_Performance/blob/main/Images/Exam.jpg)
 
 ## Задача
 
