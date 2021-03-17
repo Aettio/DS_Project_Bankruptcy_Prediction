@@ -1,4 +1,4 @@
-# Data science | Project : "Students Performance in Exams"
+# Data science | Project : "Exams Performance"
 
 ## Гайд по проекту
 
