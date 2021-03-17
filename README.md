@@ -1,4 +1,4 @@
-# Data science | Project : "New"
+# Data science | Project : "Students Performance in Exams"
 
 ## Гайд по проекту
 
@@ -32,3 +32,4 @@ p.s. Во всём коде дополнительно были сделаны �
 
 ## Источники
 
+Датасет - https://www.kaggle.com/spscientist/students-performance-in-exams
