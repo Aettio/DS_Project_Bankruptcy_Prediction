@@ -12,3 +12,4 @@ df.describe()
 
 fig = px.scatter_3d(df, x = "writing score", y='math score', z='reading score', color = 'gender')
 fig.show()
+fig.write_image("3D_plot.png", scale=2.5)
