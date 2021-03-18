@@ -24,8 +24,11 @@ p.s. Во всём коде дополнительно были сделаны �
 
 ## Задача
 
-
 ## EDA (Exploratory Data Analysis)
+
+### Корреляции
+
+![alt text](https://github.com/Aettio/DS_Project_Bankruptcy_Prediction/blob/main/Images/Корреляции.png)
 
 ## Итог
 
