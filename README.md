@@ -28,7 +28,7 @@ p.s. Во всём коде дополнительно были сделаны �
 
 ### Корреляции
 
-![alt text](https://github.com/Aettio/DS_Project_Bankruptcy_Prediction/blob/main/Images/Корреляции.png)
+![alt text](https://github.com/Aettio/DS_Project_Bankruptcy_Prediction/blob/main/Images/Корреляции(все).png)
 
 ## Итог
 
