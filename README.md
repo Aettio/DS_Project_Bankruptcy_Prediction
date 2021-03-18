@@ -1,4 +1,4 @@
-# Data science | Project : "Bankruptcy_Prediction"
+# Data science | Project : "Bankruptcy Prediction"
 
 ## Гайд по проекту
 
