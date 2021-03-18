@@ -31,4 +31,4 @@ p.s. Во всём коде дополнительно были сделаны �
 
 ## Источники
 
-- Датасет : https://www.kaggle.com/spscientist/students-performance-in-exams
+- Датасет : https://www.kaggle.com/fedesoriano/company-bankruptcy-prediction
