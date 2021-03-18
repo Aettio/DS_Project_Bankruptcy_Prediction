@@ -1,4 +1,4 @@
-# Data science | Project : "Exams Performance"
+# Data science | Project : "Bankruptcy_Prediction"
 
 ## Гайд по проекту
 
@@ -22,15 +22,13 @@ p.s. Во всём коде дополнительно были сделаны �
 
 ## Введение
 
-![alt text](https://github.com/Aettio/DS_Project_Exam_Performance/blob/main/Images/Exam.jpg)
+![alt text](https://github.com/Aettio/DS_Project_Bankruptcy_Prediction/blob/main/Images/temp.jpg)
 
 ## Задача
 
 EDA и Кластерный анализ.
 
 ## EDA (Exploratory Data Analysis)
-
-## Clustering
 
 ## Итог
 
