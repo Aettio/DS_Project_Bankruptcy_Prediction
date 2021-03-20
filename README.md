@@ -20,7 +20,7 @@ p.s. Во всём коде дополнительно были сделаны �
 
 ## Введение
 
-![alt text](https://github.com/Aettio/DS_Project_Bankruptcy_Prediction/blob/main/Images/temp.jpg)
+![alt text](https://github.com/Aettio/DS_Project_Bankruptcy_Prediction/blob/main/Images/Bankruptcy_pic.jpg)
 
 ## Задача
 
